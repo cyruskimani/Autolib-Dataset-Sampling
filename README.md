@@ -18,6 +18,8 @@ Autolib dataset description: http://bit.ly/DSCoreAutolibDatasetGlossary
 
 The Hypothesis report for this exercise can be accessed here: https://docs.google.com/document/d/1W-y3iRxJIzzQO71Zbo5-teXjdOzm5iq-fRnQCR-aKdI/edit?usp=sharing
 
+Hypothesis testing report(Completed copy):https://docs.google.com/document/d/1ObacXMKkJ2_kYGd54GE_UncilYP6ngrG1kquDoGv80M/edit?usp=sharing
+
 # Overview
 
 Autolib' is an electric car sharing service which based in Paris, France. It is operated by the Bolloré industrial group. The Autolib' scheme maintained a fleet of all-electric Bolloré Bluecars for public use on a paid subscription basis, employing a citywide network of parking and charging stations.The company had over 3,980 Bluecars registered for the service, and the scheme had more than 126,900 registered subscribers. Autolib' furthermore offered more than 1,084 electric car station points.
